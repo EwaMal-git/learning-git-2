@@ -1,0 +1,24 @@
+h1 {
+	font size: 40px;
+	color: black;
+	font-weight: bold;
+	margin: 0;
+	}
+.text-song {
+	text-align: center;
+	margin: 60px 0;
+	}
+.container {
+	margin: 0 80px;
+	}
+.text, .text-center {
+	padding: 4px;
+	font-size: 18px;
+	}
+.text-center {
+	font-style: italic;
+	}
+h3 {
+	font-style: italic;
+	margin: 0;
+	}
